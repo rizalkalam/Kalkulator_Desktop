@@ -1,0 +1,16 @@
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.exe
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.deps.json
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.json
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.dev.json
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.dll
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.pdb
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.AssemblyReference.cache
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.Form1.resources
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.GenerateResource.cache
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfoInputs.cache
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfo.cs
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.CoreCompileInputs.cache
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.dll
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.pdb
+E:\SMK\desktop programming\lat1-lvl11\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.genruntimeconfig.cache
